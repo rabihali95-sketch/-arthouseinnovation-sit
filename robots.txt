@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://arthouseinnovation.com/sitemap.xml
